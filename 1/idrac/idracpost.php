@@ -105,7 +105,7 @@ else{
 *\ signataire contient les données concernant l'établissement signataire du contrat
 *\ execution contient les données concernant l'établissement déexecution du contrat
 *\ tuteur contient les données concernant le tuteur
-*\ signatairecontrat contient les données concernant le signataire du contrat
+*\ signataireContrat contient les données concernant le signataire du contrat
 *\ administration contient les informations du contact administration du dossier
 *\ facturation contient les informations du contact de facturation
 *\ absences contient les informations du contact des absences
