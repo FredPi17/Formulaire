@@ -15,12 +15,12 @@ session_start();
             <h1>Se connecter</h1>
           </div>
         </div>
-        <div class="row medium-up-3">
+        <div class="row medium-up-3" style="height:200px;">
           <div class="column">
             <img src="img/idrac.png" style="width:200px;">
           </div>
-          <div class="column">
-            <a href="index.php" class="button">Retour formulaire</a>
+          <div class="column" style="margin-top:25px;">
+            <a href="index.php" class="button" >Retour formulaire</a>
           </div>
           <div class="column">
             <img src="img/sdc.png" style="width:200px;">

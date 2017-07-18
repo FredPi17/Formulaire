@@ -33,7 +33,7 @@
             <div class="column">
           <div class="card">
 
-            <a href="idrac/"><img src="img/idrac.png"></a>
+            <a href="idrac/"><img src="img/idrac.png" style="height: 150px;margin-top: 25px;"></a>
             <div class="card-section">
               <p></p>
             </div>
@@ -41,7 +41,7 @@
         </div>
           <div class="column">
           <div class="card">
-            <a href="supdecom"><img src="img/sdc.png"></a>
+            <a href="supdecom"><img src="img/sdc.png" style="height: 150px;margin-top: 25px;"></a>
             <div class="card-section">
               <p></p>
             </div>
