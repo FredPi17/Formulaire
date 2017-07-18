@@ -1,12 +1,13 @@
 <?php
 define("DB_SERVER3", "localhost");
-define("DB_BASE3", "bibliotheque");
+define("DB_BASE3", "idrac");
 define("DB_USER3", "root");
 define("DB_PASSWORD3", "");
-define('DB_SALT', 'Les5G');
+define('DB_SALT', 'formulaire');
 $pdo_options[PDO::ATTR_ERRMODE] = PDO::ERRMODE_EXCEPTION;
 $bdd3 = new PDO('mysql:host=' . DB_SERVER3 . ';dbname=' . DB_BASE3, DB_USER3, DB_PASSWORD3, $pdo_options);
 $bdd3->exec("Set character set utf8");
+
 /* -------------------- FONCTION EST CONNECTE() ------------------ */
   function estConnecte()
     /**
@@ -82,11 +83,11 @@ function menuDeconnexion(){
     Deconnexion();
   }
   echo '
-  <nav>
-    <form method="get">
-      <input type="submit" class="button radius" name="deconnexion" value="Deconnexion" id="Submit_connexion">
-    </form>
-  </nav>';
+          <nav>
+            <form method="get">
+              <input type="submit" class="button radius" name="deconnexion" value="Deconnexion" id="Submit_connexion">
+            </form>
+          </nav>';
 }
 
 function menuConnexion(){
@@ -103,6 +104,7 @@ if(isset($_POST['connecter']))
     echo '
     <nav>
       <form method="post" >
+      <img src="img/administration.png" style="width:150px;">
         <label for="login">E-mail
           <input type="text" name="login" id="login"><br />
         </label>
@@ -241,39 +243,17 @@ function afficheFormInscription()
       <div class="container-full">
         <div class="row">
           <div class="col-lg-12 text-center v-center">
-            <form method="get" class="col-lg-12">
+            <form method="GET" action="admin_post.php"class="col-lg-12">
               <div class="input-group" style="width:340px;margin:0 auto;">
-                <h1>Nouvel utilisateur</h1>
-                <h3>Tous les champs sont obligatoire !</h3>
-
-                <label for="prenom">Prénom
-                <input type="text" name="prenom" id="prenom" class="form-control">
-                </label>
-
-                <label for="nom">Nom
-                <input type="text" name="nom" id="nom" class="form-control">
-                </label>
-
-
-                <label for="mail">Mail
-                <input type="text" name="mail" id="mail" class="form-control">
-                </label>
-
-                <label for="mdp">Mot de passe
-                  <input type="password" name="mdp" id="mdp" class="form-control"></br>
-                </label>
-
-                <label for="mdpC">Confirmation du mot de passe
-                <input type="password" name="mdpC" id="mdpC" class="form-control"></br>
-                </label>
-
-
-                <span class="input-control input-lg">
-                  <input type="submit" class="btn btn-lg btn-primary" name="nouveau" value="Nouveau" id="Submit_connexion">
-                </span>
-                <span class="input-control input-lg">
-                  <input type="submit" class="btn btn-lg btn-primary" name="retour" value="Annuler" id="Submit_retour">
-                </span>
+                <h3>Nouvel utilisateur</h3>
+                <h7>Tous les champs sont obligatoire !</h7>
+                <input type="text" name="prenom" id="prenom" class="form-control" placeholder="Prénom">
+                <input type="text" name="nom" id="nom" class="form-control" placeholder="Nom">
+                <input type="text" name="mail" id="mail" class="form-control" placeholder="Addresse mail">
+                <input type="password" name="mdp" id="mdp" class="form-control" placeholder="Mot de passe">
+                <input type="password" name="mdpC" id="mdpC" class="form-control" placeholder="Confirmation mot de passe"></br>
+                <a href="administration.php"><input type="" class="button" name="retour" value="Annuler" id="Submit_retour" style="width:30%;"></a>
+                <input type="submit" class="button" name="nouveau" value="Nouveau" id="Submit_connexion">
               </div>
             </form>
           </div>
@@ -286,58 +266,43 @@ function afficheFormInscription()
   echo afficheFormInscription();
   */
 
-  /* -------------------- FONCTION CONTROLE FORM INSCRIPTION() ------------------ */
-  function controleFormInscription($tab)
-  /**
-  *\author Hugo Lausenaz-Pire
-  *\verificator Joseph Tabailloux
-  *\brief affecte une valeur à un formulaire de connexion avec un titre h1
-  * Pas de paramètre
-  *\return return le formulaire sous forme de string
-  *\Test Regarder à la fin de la fonction
-  */
-  {
-    session_start();
-    if (strlen($tab['Nom'] <3)) {
-      $_SESSION['msgErreur'] .= "Nom absent ou trop court <br>";
-    }
-    if (strlen($tab['Prenom'] <3)) {
-      $_SESSION['msgErreur'] .= "Prénom absent ou trop court <br>";
-    }
-    if (!filter_var($tab['Mail'], FILTER_VALIDATE_EMAIL)) {
-      $_SESSION['msgErreur'] .= "Mail invalide <br>";
-    }
-    if (strlen($tab['MDP'] < 7)) {
-      $_SESSION['msgErreur'] .= "Mail absent ou trop court (8 caractères minimum) <br>";
-    }
-    if ($tab['MDP'] != $tab['confirmation']) {
-      $_SESSION['msgErreur'] .= "Les deux mots de passse sont différents <br>";
-    }
-  }
 
   /* -------------------- FONCTION AJOUTE UTILISATEUR() ------------------ */
-  function ajouteUtilisateur($tab)
- {
+  function ajouteUtilisateur()
+  {
    /**
-   *\author Hugo Lausenaz-Pire
-   *\verificator Joseph Tabailloux
-   *\brief C'est un requete INSERT
-   * Tableau du post inscription
-   *\return l'identifiant de l'utilisateur
-   *\Test Regarder le inscription.php
+   *\author
+   *\brief
    */
    global $bdd3;
-   $NewPassword = sha1($tab['mdp'] . DB_SALT . strtolower($tab['mail']));
-   $p_requeteInsert = $bdd3->prepare( 'INSERT INTO utilisateur (MDP, Mail, Nom, Prenom, Admin) VALUES ( :mdp, :Mail, :nom, :prenom, :admin )'
-   );
+   $NewPassword = sha1($_GET['mdp'] . DB_SALT . strtolower($_GET['mail']));
+   $p_requeteInsert = $bdd3->prepare('INSERT INTO `utilisateur`(`MDP`, `Mail`, `Nom`, `Prenom`) VALUES (:mdp, :mail, :nom, :prenom)');
      $p_requeteInsert->execute(array(
-       'Mail' => $tab['mail'],
+       'mail' => $_GET['mail'],
        'mdp' => $NewPassword,
-       'prenom' => $tab['prenom'],
-       'nom' => $tab['nom'],
-       'admin' => False
+       'prenom' => $_GET['prenom'],
+       'nom' => $_GET['nom']
      ));
-     $ID = $bdd->lastInsertId();
-     return $ID;
- }
+     header('Location:administration.php');
+  }
+
+  function listeUtilisateurs()
+  {
+    global $bdd3;
+    $import = $bdd3->query('SELECT Mail, Nom, Prenom FROM utilisateur');
+    while ($fetch = $import->fetch()){?>
+      <tr>
+        <td>
+          <?php echo $fetch['Nom'];?>
+        </td>
+        <td>
+          <?php echo $fetch['Prenom']; ?>
+        </td>
+        <td>
+          <?php echo $fetch['Mail']; ?>
+        </td>
+      </tr>
+    <?php
+  }
+}
  ?>
