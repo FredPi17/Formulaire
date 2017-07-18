@@ -153,7 +153,23 @@ tr{
   margin-bottom: 3.5px;
   height: 38px;
 }
-
+#modifier{
+  margin-top:10px;
+  text-align:center;
+}
 .medium-up-2{
   text-align: center;
+}
+
+.title{
+  margin-top:20px;
+  margin-bottom:10px;
+  border-bottom: 1px solid grey;
+  color: red;
+}
+.column.infos{
+  border-top:1px solid grey;
+  border-bottom:1px solid grey;
+  background-color:rgb(232,232,232);
+  padding: 2px;
 }

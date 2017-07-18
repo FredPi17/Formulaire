@@ -473,7 +473,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #fefefe;
+  background: #d7d7d7;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
@@ -1350,7 +1350,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   color: inherit;
@@ -1858,7 +1858,7 @@ label {
   font-size: 0.875rem;
   font-weight: normal;
   line-height: 1.8;
-  color: #0a0a0a; }
+  color: white; }
   label.middle {
     margin: 0 0 1rem;
     padding: 0.5625rem 0; }
@@ -2270,7 +2270,7 @@ select {
   .callout > :last-child {
     margin-bottom: 0; }
   .callout.primary {
-    background-color: #d7ecfa;
+    background-color: dimgrey;
     color: #0a0a0a; }
   .callout.secondary {
     background-color: #eaeaea;
