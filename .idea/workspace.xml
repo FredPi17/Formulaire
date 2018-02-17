@@ -2,388 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4891b26-1605-46d0-92f1-101556c18f90" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/administration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/bdd/bdd_idrac.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/bdd/bdd_sdc.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/bdd/contratpro.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/bdd/infos.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/bdd/taxeapprentissage.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/bdd/tuteur.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/contrat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker.standalone.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker.standalone.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker.standalone.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker.standalone.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker3.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker3.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker3.standalone.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker3.standalone.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker3.standalone.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-datepicker3.standalone.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/default_blue.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/feature-carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/foundation.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/simple-sidebar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/css/style2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/.fontcustom-data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/foundation-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/foundation-icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/foundation-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/foundation-icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/foundation-icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-address-book.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-alert.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-align-center.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-align-justify.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-align-left.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-align-right.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-anchor.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-annotate.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-archive.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-arrow-down.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-arrow-left.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-arrow-right.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-arrow-up.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-arrows-compress.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-arrows-expand.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-arrows-in.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-arrows-out.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-asl.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-asterisk.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-at-sign.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-background-color.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-battery-empty.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-battery-full.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-battery-half.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-bitcoin-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-bitcoin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-blind.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-bluetooth.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-bold.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-book-bookmark.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-book.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-bookmark.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-braille.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-burst-new.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-burst-sale.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-burst.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-calendar.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-camera.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-check.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-checkbox.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-clipboard-notes.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-clipboard-pencil.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-clipboard.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-clock.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-closed-caption.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-cloud.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-comment-minus.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-comment-quotes.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-comment-video.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-comment.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-comments.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-compass.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-contrast.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-credit-card.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-crop.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-crown.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-css3.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-database.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-die-five.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-die-four.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-die-one.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-die-six.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-die-three.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-die-two.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-dislike.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-dollar-bill.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-dollar.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-download.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-eject.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-elevator.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-euro.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-eye.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-fast-forward.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-female-symbol.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-filter.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-first-aid.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-flag.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-folder-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-folder-lock.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-folder.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-foot.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-foundation.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-graph-bar.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-graph-horizontal.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-graph-pie.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-graph-trend.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-guide-dog.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-hearing-aid.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-home.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-html5.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-indent-less.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-indent-more.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-info.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-italic.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-key.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-laptop.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-layout.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-lightbulb.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-like.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-link.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-list-bullet.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-list-number.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-list-thumbnails.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-list.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-lock.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-loop.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-magnifying-glass.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-mail.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-male-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-male-symbol.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-male.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-map.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-marker.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-megaphone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-microphone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-minus-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-minus.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-mobile-signal.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-mobile.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-monitor.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-mountains.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-music.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-next.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-no-dogs.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-no-smoking.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-copy.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-csv.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-delete.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-doc.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-edit.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-export-csv.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-export-doc.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-export-pdf.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-export.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-filled.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-multiple.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-pdf.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-remove.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page-search.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-page.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-paint-bucket.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-paperclip.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-pause.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-paw.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-paypal.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-pencil.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-photo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-play-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-play-video.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-play.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-plus.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-pound.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-power.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-previous.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-price-tag.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-pricetag-multiple.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-print.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-prohibited.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-projection-screen.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-puzzle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-quote.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-record.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-refresh.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-results-demographics.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-results.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-rewind-ten.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-rewind.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-rss.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-safety-cone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-save.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-share.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-sheriff-badge.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-shield.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-shopping-bag.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-shopping-cart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-shuffle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-skull.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-500px.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-adobe.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-amazon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-android.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-apple.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-behance.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-bing.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-blogger.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-delicious.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-designer-news.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-deviant-art.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-digg.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-dribbble.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-drive.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-dropbox.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-evernote.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-facebook.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-flickr.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-forrst.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-foursquare.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-game-center.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-github.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-google-plus.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-hacker-news.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-hi5.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-instagram.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-joomla.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-lastfm.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-linkedin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-medium.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-myspace.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-orkut.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-path.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-picasa.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-pinterest.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-rdio.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-reddit.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-skillshare.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-skype.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-smashing-mag.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-snapchat.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-spotify.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-squidoo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-stack-overflow.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-steam.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-stumbleupon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-treehouse.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-tumblr.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-twitter.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-vimeo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-windows.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-xbox.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-yahoo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-yelp.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-youtube.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-zerply.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-social-zurb.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-sound.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-star.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-stop.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-strikethrough.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-subscript.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-superscript.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-tablet-landscape.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-tablet-portrait.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-target-two.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-target.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-telephone-accessible.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-telephone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-text-color.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-thumbnails.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-ticket.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-torso-business.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-torso-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-torso.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-torsos-all-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-torsos-all.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-torsos-female-male.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-torsos-male-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-torsos.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-trash.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-trees.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-trophy.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-underline.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-universal-access.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-unlink.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-unlock.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-upload-cloud.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-upload.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-usb.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-video.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-volume-none.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-volume-strike.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-volume.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-web.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-wheelchair.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-widget.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-wrench.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-x-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-x.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-yen.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-zoom-in.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/foundation-icons/svgs/fi-zoom-out.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/idrac.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/idrac/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/idrac/idrac.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/idrac/idracpost.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/idrac/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/Intel Driver Update Utility Installer.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/idrac-bacplus3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/idrac-bacplus3B.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/idrac-bacplus45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/idrac-bacplus45B.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/idrac-exec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/idrac.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/sdc-bacplus3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/sdc-bacplus3B.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/sdc-bacplus4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/sdc-bacplus45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/sdc-bacplus45B.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/sdc-bacplus5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/sdc-bacplus5B.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/sdc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/template.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/template2.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/img/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/include/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/include/outils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/include/utilisateur.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/js/bootstrap-datepicker.fr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/js/bootstrap-datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/js/bootstrap-datepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/supdecom.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/supdecom/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/supdecom/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/supdecom/sdcpost.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/supdecom/supdecom.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1/update.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administration.php" afterPath="$PROJECT_DIR$/administration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/outils.php" afterPath="$PROJECT_DIR$/include/outils.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/utilisateur.php" afterPath="$PROJECT_DIR$/include/utilisateur.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -393,9 +17,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1092">
+              <caret line="52" column="6" lean-forward="false" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contrat.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1510324716364" expanded="true" signature="1564:1576" ph="..." />
+                <marker date="1510324716364" expanded="true" signature="1824:1836" ph="..." />
+                <marker date="1510324716364" expanded="true" signature="2323:2371" ph="select * fro... absences" />
+                <marker date="1510324716364" expanded="true" signature="2409:2458" ph="select * fro... apprenant" />
+                <marker date="1510324716364" expanded="true" signature="2496:2550" ph="select * fro... administration" />
+                <marker date="1510324716364" expanded="true" signature="2588:2638" ph="select * fro... contratpro" />
+                <marker date="1510324716364" expanded="true" signature="2676:2725" ph="select * fro... execution" />
+                <marker date="1510324716364" expanded="true" signature="2763:2814" ph="select * fro... facturation" />
+                <marker date="1510324716364" expanded="true" signature="2852:2903" ph="select * fro... financement" />
+                <marker date="1510324716364" expanded="true" signature="2941:2991" ph="select * fro... signataire" />
+                <marker date="1510324716364" expanded="true" signature="3029:3086" ph="select * fro... signatairecontrat" />
+                <marker date="1510324716364" expanded="true" signature="3125:3182" ph="select * fro... taxeapprentissage" />
+                <marker date="1510324716364" expanded="true" signature="3221:3267" ph="select * fro... tuteur" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="administration.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/administration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1651">
+              <caret line="196" column="91" lean-forward="true" selection-start-line="196" selection-start-column="91" selection-end-line="196" selection-end-column="91" />
+              <folding>
+                <marker date="1518216715207" expanded="true" signature="2825:2848" ph="select * fro... apprenant" />
+                <marker date="1518216715207" expanded="true" signature="4124:4258" ph="select * fro... apprenant" />
+                <marker date="1518216715207" expanded="true" signature="5827:5872" ph="select numCo... apprenant" />
+                <marker date="1518216715207" expanded="true" signature="6959:7259" ph="select contr... contratpro" />
+                <marker date="1518216715207" expanded="true" signature="10488:10520" ph="select * fro... infos" />
+                <marker date="1518216715207" expanded="true" signature="13892:13924" ph="select * fro... infos" />
+                <marker date="1518216715207" expanded="true" signature="17458:17490" ph="select * fro... infos" />
+                <marker date="1518216715207" expanded="true" signature="20435:20467" ph="select * fro... infos" />
+                <marker date="1518216715207" expanded="true" signature="23588:23620" ph="select * fro... infos" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_post.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_post.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -404,21 +82,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="administration.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/administration.php">
+      <file leaf-file-name="update.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/update.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1666">
-              <caret line="177" column="63" lean-forward="false" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="63" />
+            <state relative-caret-position="1302">
+              <caret line="62" column="5" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="5" />
               <folding>
-                <marker date="1499177274498" expanded="true" signature="2392:2415" ph="select * fro... apprenant" />
-                <marker date="1499177274498" expanded="true" signature="3186:3320" ph="select * fro... apprenant" />
-                <marker date="1499177274498" expanded="true" signature="4285:4330" ph="select numCo... apprenant" />
-                <marker date="1499177274498" expanded="true" signature="5040:5340" ph="select contr... contratpro" />
-                <marker date="1499177274498" expanded="true" signature="7626:7658" ph="select * fro... infos" />
-                <marker date="1499177274498" expanded="true" signature="9275:9307" ph="select * fro... infos" />
-                <marker date="1499177274498" expanded="true" signature="11233:11265" ph="select * fro... infos" />
-                <marker date="1499177274498" expanded="true" signature="12849:12881" ph="select * fro... infos" />
-                <marker date="1499177274498" expanded="true" signature="14472:14504" ph="select * fro... infos" />
+                <marker date="1510324716296" expanded="true" signature="153:401" ph="UPDATE infos... " />
+                <marker date="1510324716296" expanded="true" signature="1573:1821" ph="UPDATE infos... " />
+                <marker date="1510324716296" expanded="true" signature="2280:2528" ph="UPDATE infos... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="outils.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/outils.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+              <folding>
+                <marker date="1518263579701" expanded="true" signature="427:1199" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="439:950" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="961:1199" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="998:1199" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="1066:1199" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="1129:1199" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="1166:1199" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="1608:2371" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="1665:2360" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="1692:1961" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="1988:2174" ph="..." />
+                <marker date="1518263579701" expanded="true" signature="2201:2348" ph="..." />
               </folding>
             </state>
           </provider>
@@ -427,55 +122,55 @@
       <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="utilisateur.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="utilisateur.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/utilisateur.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="248" column="59" lean-forward="true" selection-start-line="248" selection-start-column="59" selection-end-line="248" selection-end-column="59" />
+            <state relative-caret-position="21">
+              <caret line="231" column="24" lean-forward="false" selection-start-line="231" selection-start-column="24" selection-end-line="231" selection-end-column="24" />
               <folding>
-                <marker date="1500380286744" expanded="true" signature="1537:1722" ph="SELECT IDuti... utilisateur" />
-                <marker date="1500380286744" expanded="true" signature="2558:2746" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="2590:2729" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="3090:3516" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="3117:3505" ph="..." />
-                <marker date="1500380286744" expanded="false" signature="3167:3179" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="3208:3291" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="3317:3406" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="4298:4493" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="4341:4493" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="4376:4493" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="5095:5393" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="5123:5205" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="5230:5314" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="5950:7473" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="5974:7462" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="6027:7449" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="6075:7434" ph="..." />
-                <marker date="1500380286744" expanded="false" signature="6121:6165" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="6166:7416" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="6293:6397" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="6430:6551" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="6585:6722" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="6758:6868" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="6901:7002" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="7054:7206" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="7258:7397" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="7914:9129" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="7940:9116" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="7995:9101" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="8068:9084" ph="..." />
-                <marker date="1500380286744" expanded="false" signature="8116:8142" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="8143:9064" ph="..." />
-                <marker date="1500380286744" expanded="false" signature="8922:8932" ph="..." />
-                <marker date="1500380286744" expanded="true" signature="9515:9608" ph="INSERT INTO `utilisateur`... " />
-                <marker date="1500380286744" expanded="true" signature="9916:9957" ph="SELECT Mail,... utilisateur" />
+                <marker date="1518215666789" expanded="true" signature="1537:1722" ph="SELECT IDuti... utilisateur" />
+                <marker date="1518215666789" expanded="true" signature="2558:2746" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="2590:2729" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="3090:3516" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="3117:3505" ph="..." />
+                <marker date="1518215666789" expanded="false" signature="3167:3179" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="3208:3291" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="3317:3406" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="4298:4493" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="4341:4493" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="4376:4493" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="5095:5393" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="5123:5205" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="5230:5314" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="5950:7473" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="5974:7462" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="6027:7449" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="6075:7434" ph="..." />
+                <marker date="1518215666789" expanded="false" signature="6121:6165" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="6166:7416" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="6293:6397" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="6430:6551" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="6585:6722" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="6758:6868" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="6901:7002" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="7054:7206" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="7258:7397" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="7914:9129" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="7940:9116" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="7995:9101" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="8068:9084" ph="..." />
+                <marker date="1518215666789" expanded="false" signature="8116:8142" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="8143:9064" ph="..." />
+                <marker date="1518215666789" expanded="false" signature="8922:8932" ph="..." />
+                <marker date="1518215666789" expanded="true" signature="9515:9608" ph="INSERT INTO `utilisateur`... " />
+                <marker date="1518215666789" expanded="true" signature="9916:9957" ph="SELECT Mail,... utilisateur" />
               </folding>
             </state>
           </provider>
@@ -484,8 +179,8 @@
       <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="840">
+              <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -493,8 +188,27 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Supdecom</find>
+      <find>include('include/config.php');</find>
+      <find>Administrateurs</find>
+      <find>estConnecte</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/utilisateur.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/administration.php" />
+        <option value="$PROJECT_DIR$/include/outils.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -504,8 +218,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
+    <option name="x" value="145" />
+    <option name="width" value="1641" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -523,8 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -541,10 +253,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -569,33 +284,36 @@
       <option name="presentableId" value="Default" />
       <updated>1504853532719</updated>
       <workItem from="1504853533848" duration="3991000" />
+      <workItem from="1515664688495" duration="695000" />
+      <workItem from="1518173117015" duration="8666000" />
+      <workItem from="1518338428841" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3991000" />
+    <option name="totallyTimeSpent" value="14053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19280344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -612,9 +330,272 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="52" column="6" lean-forward="false" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510324716364" expanded="true" signature="1564:1576" ph="..." />
+            <marker date="1510324716364" expanded="true" signature="1824:1836" ph="..." />
+            <marker date="1510324716364" expanded="true" signature="2323:2371" ph="select * fro... absences" />
+            <marker date="1510324716364" expanded="true" signature="2409:2458" ph="select * fro... apprenant" />
+            <marker date="1510324716364" expanded="true" signature="2496:2550" ph="select * fro... administration" />
+            <marker date="1510324716364" expanded="true" signature="2588:2638" ph="select * fro... contratpro" />
+            <marker date="1510324716364" expanded="true" signature="2676:2725" ph="select * fro... execution" />
+            <marker date="1510324716364" expanded="true" signature="2763:2814" ph="select * fro... facturation" />
+            <marker date="1510324716364" expanded="true" signature="2852:2903" ph="select * fro... financement" />
+            <marker date="1510324716364" expanded="true" signature="2941:2991" ph="select * fro... signataire" />
+            <marker date="1510324716364" expanded="true" signature="3029:3086" ph="select * fro... signatairecontrat" />
+            <marker date="1510324716364" expanded="true" signature="3125:3182" ph="select * fro... taxeapprentissage" />
+            <marker date="1510324716364" expanded="true" signature="3221:3267" ph="select * fro... tuteur" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7119">
+          <caret line="339" column="132" lean-forward="false" selection-start-line="339" selection-start-column="132" selection-end-line="339" selection-end-column="132" />
+          <folding>
+            <marker date="1518216715207" expanded="true" signature="2825:2848" ph="select * fro... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="4124:4258" ph="select * fro... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="5827:5872" ph="select numCo... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="6959:7259" ph="select contr... contratpro" />
+            <marker date="1518216715207" expanded="true" signature="10488:10520" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="13892:13924" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="17458:17490" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="20435:20467" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="23588:23620" ph="select * fro... infos" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_post.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="62" column="5" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="5" />
+          <folding>
+            <marker date="1510324716296" expanded="true" signature="153:401" ph="UPDATE infos... " />
+            <marker date="1510324716296" expanded="true" signature="1573:1821" ph="UPDATE infos... " />
+            <marker date="1510324716296" expanded="true" signature="2280:2528" ph="UPDATE infos... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/outils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <marker date="1518263579701" expanded="true" signature="427:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="439:950" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="961:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="998:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1066:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1129:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1166:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1608:2371" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1665:2360" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1692:1961" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1988:2174" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="2201:2348" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/utilisateur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4851">
+          <caret line="231" column="24" lean-forward="false" selection-start-line="231" selection-start-column="24" selection-end-line="231" selection-end-column="24" />
+          <folding>
+            <marker date="1518215666789" expanded="true" signature="1537:1722" ph="SELECT IDuti... utilisateur" />
+            <marker date="1518215666789" expanded="true" signature="2558:2746" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="2590:2729" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3090:3516" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3117:3505" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="3167:3179" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3208:3291" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3317:3406" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4298:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4341:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4376:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5095:5393" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5123:5205" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5230:5314" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5950:7473" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5974:7462" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6027:7449" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6075:7434" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="6121:6165" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6166:7416" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6293:6397" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6430:6551" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6585:6722" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6758:6868" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6901:7002" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7054:7206" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7258:7397" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7914:9129" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7940:9116" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7995:9101" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="8068:9084" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="8116:8142" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="8143:9064" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="8922:8932" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="9515:9608" ph="INSERT INTO `utilisateur`... " />
+            <marker date="1518215666789" expanded="true" signature="9916:9957" ph="SELECT Mail,... utilisateur" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3738">
+          <caret line="178" column="63" lean-forward="false" selection-start-line="178" selection-start-column="63" selection-end-line="178" selection-end-column="63" />
+          <folding>
+            <marker date="1518216715207" expanded="true" signature="2825:2848" ph="select * fro... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="4124:4258" ph="select * fro... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="5827:5872" ph="select numCo... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="6959:7259" ph="select contr... contratpro" />
+            <marker date="1518216715207" expanded="true" signature="10488:10520" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="13892:13924" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="17458:17490" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="20435:20467" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="23588:23620" ph="select * fro... infos" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/utilisateur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5460">
+          <caret line="260" column="14" lean-forward="true" selection-start-line="260" selection-start-column="14" selection-end-line="260" selection-end-column="14" />
+          <folding>
+            <marker date="1518215666789" expanded="true" signature="1537:1722" ph="SELECT IDuti... utilisateur" />
+            <marker date="1518215666789" expanded="true" signature="2558:2746" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="2590:2729" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3090:3516" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3117:3505" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="3167:3179" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3208:3291" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3317:3406" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4298:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4341:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4376:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5095:5393" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5123:5205" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5230:5314" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5950:7473" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5974:7462" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6027:7449" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6075:7434" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="6121:6165" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6166:7416" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6293:6397" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6430:6551" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6585:6722" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6758:6868" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6901:7002" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7054:7206" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7258:7397" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7914:9129" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7940:9116" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7995:9101" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="8068:9084" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="8116:8142" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="8143:9064" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="8922:8932" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="9515:9608" ph="INSERT INTO `utilisateur`... " />
+            <marker date="1518215666789" expanded="true" signature="9916:9957" ph="SELECT Mail,... utilisateur" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3717">
+          <caret line="177" column="63" lean-forward="false" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="63" />
+          <folding>
+            <marker date="1518216715207" expanded="true" signature="2825:2848" ph="select * fro... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="4124:4258" ph="select * fro... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="5827:5872" ph="select numCo... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="6959:7259" ph="select contr... contratpro" />
+            <marker date="1518216715207" expanded="true" signature="10488:10520" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="13892:13924" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="17458:17490" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="20435:20467" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="23588:23620" ph="select * fro... infos" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -634,65 +615,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/administration.php">
+    <entry file="file://$PROJECT_DIR$/include/utilisateur.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1666">
-          <caret line="177" column="63" lean-forward="false" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="63" />
+        <state relative-caret-position="5208">
+          <caret line="248" column="59" lean-forward="true" selection-start-line="248" selection-start-column="59" selection-end-line="248" selection-end-column="59" />
           <folding>
-            <marker date="1499177274498" expanded="true" signature="2392:2415" ph="select * fro... apprenant" />
-            <marker date="1499177274498" expanded="true" signature="3186:3320" ph="select * fro... apprenant" />
-            <marker date="1499177274498" expanded="true" signature="4285:4330" ph="select numCo... apprenant" />
-            <marker date="1499177274498" expanded="true" signature="5040:5340" ph="select contr... contratpro" />
-            <marker date="1499177274498" expanded="true" signature="7626:7658" ph="select * fro... infos" />
-            <marker date="1499177274498" expanded="true" signature="9275:9307" ph="select * fro... infos" />
-            <marker date="1499177274498" expanded="true" signature="11233:11265" ph="select * fro... infos" />
-            <marker date="1499177274498" expanded="true" signature="12849:12881" ph="select * fro... infos" />
-            <marker date="1499177274498" expanded="true" signature="14472:14504" ph="select * fro... infos" />
+            <marker date="1518215666789" expanded="true" signature="1537:1722" ph="SELECT IDuti... utilisateur" />
+            <marker date="1518215666789" expanded="true" signature="2558:2746" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="2590:2729" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3090:3516" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3117:3505" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="3167:3179" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3208:3291" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3317:3406" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4298:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4341:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4376:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5095:5393" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5123:5205" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5230:5314" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5950:7473" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5974:7462" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6027:7449" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6075:7434" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="6121:6165" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6166:7416" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6293:6397" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6430:6551" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6585:6722" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6758:6868" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6901:7002" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7054:7206" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7258:7397" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7914:9129" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7940:9116" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7995:9101" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="8068:9084" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="8116:8142" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="8143:9064" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="8922:8932" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="9515:9608" ph="INSERT INTO `utilisateur`... " />
+            <marker date="1518215666789" expanded="true" signature="9916:9957" ph="SELECT Mail,... utilisateur" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="62" column="5" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="5" />
+          <folding>
+            <marker date="1510324716296" expanded="true" signature="153:401" ph="UPDATE infos... " />
+            <marker date="1510324716296" expanded="true" signature="1573:1821" ph="UPDATE infos... " />
+            <marker date="1510324716296" expanded="true" signature="2280:2528" ph="UPDATE infos... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="52" column="6" lean-forward="false" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510324716364" expanded="true" signature="1564:1576" ph="..." />
+            <marker date="1510324716364" expanded="true" signature="1824:1836" ph="..." />
+            <marker date="1510324716364" expanded="true" signature="2323:2371" ph="select * fro... absences" />
+            <marker date="1510324716364" expanded="true" signature="2409:2458" ph="select * fro... apprenant" />
+            <marker date="1510324716364" expanded="true" signature="2496:2550" ph="select * fro... administration" />
+            <marker date="1510324716364" expanded="true" signature="2588:2638" ph="select * fro... contratpro" />
+            <marker date="1510324716364" expanded="true" signature="2676:2725" ph="select * fro... execution" />
+            <marker date="1510324716364" expanded="true" signature="2763:2814" ph="select * fro... facturation" />
+            <marker date="1510324716364" expanded="true" signature="2852:2903" ph="select * fro... financement" />
+            <marker date="1510324716364" expanded="true" signature="2941:2991" ph="select * fro... signataire" />
+            <marker date="1510324716364" expanded="true" signature="3029:3086" ph="select * fro... signatairecontrat" />
+            <marker date="1510324716364" expanded="true" signature="3125:3182" ph="select * fro... taxeapprentissage" />
+            <marker date="1510324716364" expanded="true" signature="3221:3267" ph="select * fro... tuteur" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/outils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <marker date="1518263579701" expanded="true" signature="427:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="439:950" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="961:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="998:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1066:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1129:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1166:1199" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1608:2371" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1665:2360" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1692:1961" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="1988:2174" ph="..." />
+            <marker date="1518263579701" expanded="true" signature="2201:2348" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/include/utilisateur.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="248" column="59" lean-forward="true" selection-start-line="248" selection-start-column="59" selection-end-line="248" selection-end-column="59" />
+        <state relative-caret-position="21">
+          <caret line="231" column="24" lean-forward="false" selection-start-line="231" selection-start-column="24" selection-end-line="231" selection-end-column="24" />
           <folding>
-            <marker date="1500380286744" expanded="true" signature="1537:1722" ph="SELECT IDuti... utilisateur" />
-            <marker date="1500380286744" expanded="true" signature="2558:2746" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="2590:2729" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="3090:3516" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="3117:3505" ph="..." />
-            <marker date="1500380286744" expanded="false" signature="3167:3179" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="3208:3291" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="3317:3406" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="4298:4493" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="4341:4493" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="4376:4493" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="5095:5393" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="5123:5205" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="5230:5314" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="5950:7473" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="5974:7462" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="6027:7449" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="6075:7434" ph="..." />
-            <marker date="1500380286744" expanded="false" signature="6121:6165" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="6166:7416" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="6293:6397" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="6430:6551" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="6585:6722" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="6758:6868" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="6901:7002" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="7054:7206" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="7258:7397" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="7914:9129" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="7940:9116" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="7995:9101" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="8068:9084" ph="..." />
-            <marker date="1500380286744" expanded="false" signature="8116:8142" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="8143:9064" ph="..." />
-            <marker date="1500380286744" expanded="false" signature="8922:8932" ph="..." />
-            <marker date="1500380286744" expanded="true" signature="9515:9608" ph="INSERT INTO `utilisateur`... " />
-            <marker date="1500380286744" expanded="true" signature="9916:9957" ph="SELECT Mail,... utilisateur" />
+            <marker date="1518215666789" expanded="true" signature="1537:1722" ph="SELECT IDuti... utilisateur" />
+            <marker date="1518215666789" expanded="true" signature="2558:2746" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="2590:2729" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3090:3516" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3117:3505" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="3167:3179" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3208:3291" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="3317:3406" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4298:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4341:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="4376:4493" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5095:5393" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5123:5205" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5230:5314" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5950:7473" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="5974:7462" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6027:7449" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6075:7434" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="6121:6165" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6166:7416" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6293:6397" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6430:6551" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6585:6722" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6758:6868" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="6901:7002" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7054:7206" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7258:7397" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7914:9129" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7940:9116" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="7995:9101" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="8068:9084" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="8116:8142" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="8143:9064" ph="..." />
+            <marker date="1518215666789" expanded="false" signature="8922:8932" ph="..." />
+            <marker date="1518215666789" expanded="true" signature="9515:9608" ph="INSERT INTO `utilisateur`... " />
+            <marker date="1518215666789" expanded="true" signature="9916:9957" ph="SELECT Mail,... utilisateur" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1651">
+          <caret line="196" column="91" lean-forward="true" selection-start-line="196" selection-start-column="91" selection-end-line="196" selection-end-column="91" />
+          <folding>
+            <marker date="1518216715207" expanded="true" signature="2825:2848" ph="select * fro... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="4124:4258" ph="select * fro... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="5827:5872" ph="select numCo... apprenant" />
+            <marker date="1518216715207" expanded="true" signature="6959:7259" ph="select contr... contratpro" />
+            <marker date="1518216715207" expanded="true" signature="10488:10520" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="13892:13924" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="17458:17490" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="20435:20467" ph="select * fro... infos" />
+            <marker date="1518216715207" expanded="true" signature="23588:23620" ph="select * fro... infos" />
           </folding>
         </state>
       </provider>
